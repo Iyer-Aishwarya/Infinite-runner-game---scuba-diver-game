@@ -21,7 +21,7 @@ function preload(){
     diverImg = loadAnimation("diver1.png","diver2.png", "diver3.png");
     sharkImg=loadImage("shark.png");
     bombImg=loadImage("bomb.png");
-    gameOverImg=loadImage("gameOver.png");
+    gameOverImg=loadImage("gameover.png");
     backdropImg=loadImage("backdrop.png");
     playbuttonImg=loadImage("playbton.png");
     resetbuttonImg=loadImage("reset.png");
